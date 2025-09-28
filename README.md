@@ -15,7 +15,7 @@ artigo-ciberseguranca/
 ```
 
 ## 🔗 Link do Artigo
-👉 [Leia o artigo completo aqui](https://github.com/seu-usuario/artigo-ciberseguranca)
+👉 [Leia o artigo completo aqui](https://github.com/Nelito-Carlos21/Artigo--A_Nova_Era_da_Ciberseguranca/blob/main/artigo.md)
 
 ## 🚀 Como Contribuir
 1. Faça um fork deste repositório.  

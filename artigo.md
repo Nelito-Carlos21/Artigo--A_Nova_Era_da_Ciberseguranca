@@ -1,5 +1,9 @@
 # 🚀 A Nova Era da Cibersegurança: Como a IA Está Antecipando Ameaças em Milissegundos
 
+
+<img width="1536" height="1024" alt="Image-Ethical Hacker" src="https://github.com/user-attachments/assets/d7f97de1-d07d-48de-a74b-91766b52e411" />
+
+
 ## 🔒 Introdução
 Nos últimos anos, o cenário da cibersegurança deixou de ser apenas uma corrida contra hackers isolados. Hoje, organizações enfrentam redes criminosas altamente organizadas, ataques automatizados e ameaças em escala global. Nesse novo ambiente, a **Inteligência Artificial (IA)** deixou de ser tendência e passou a ser **arma essencial de defesa digital**.
 

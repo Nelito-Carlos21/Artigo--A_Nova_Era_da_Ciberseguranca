@@ -30,4 +30,4 @@ Estamos caminhando para **arquiteturas de defesa autônomas**, onde humanos supe
 A **IA é o novo escudo da cibersegurança**. Empresas que demorarem a adotar essas soluções ficarão vulneráveis em um cenário onde ataques digitais são cada vez mais rápidos, inteligentes e destrutivos.
 
 👉 Quer se aprofundar?  
-Confira o repositório completo com este artigo, imagens geradas e prompts utilizados: **![GitHub Link](https://github.com/Nelito-Carlos21/Artigo--A_Nova_Era_da_Ciberseguranca)**
+Confira o repositório completo com este artigo, imagens geradas e prompts utilizados: **.[GitHub Link](https://github.com/Nelito-Carlos21/Artigo--A_Nova_Era_da_Ciberseguranca).**
